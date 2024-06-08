@@ -1,6 +1,7 @@
 - 👋 Hi, I’m <Bold>Himanshu Kumar</Bold>
 - 🌱 I’m Engineering Student
-- 📫 <a href ="mailto: himanshukumar107102004@gmail.com"> E-mail </a>
+- 📫  E-mail : himanshukumar107102004@gmail.com
+- 📇 <a href="www.linkedin.com/in/-himanshu-kumar"> LinkedIn </a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
