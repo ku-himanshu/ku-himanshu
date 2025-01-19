@@ -36,5 +36,6 @@
    
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ku-himanshu&layout=compact&theme=vision-friendly-dark)](https://github.com/Kayleexx/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ku-himanshu&layout=compact&theme=vision-friendly-dark)](https://github.com/ku-himanshu/github-readme-stats)
 <p align="center"> <font size="7" face="verdana" color="green">Email: himanshukumar107102004@gmail.com </font> </p>
