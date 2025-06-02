@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World.. 👋,</n> I'm Himanshu </h1>
-<h3 align="center">🌱 I’m currently pursuing Mechanical Engineering </h3>
+<h3 align="center">🌱 Currently pursuing Bachelor's in Mechanical Engineering </h3>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ4d3RmbWVpdnpkZmNhNHpqZnEzNXo1ZHVqdjhnejBmdjVvZ3BxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
