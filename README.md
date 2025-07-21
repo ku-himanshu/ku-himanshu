@@ -4,7 +4,7 @@
 
 You've landed on my little corner of GitHub. I'm a final-year Mechanical Engineering student who's been bitten by the Computer Science bug! 🌱
 
-I'm diving deep into coding, exploring new technologies, and putting my problem-solving skills to work on various projects. Feel free to browse around and see what I'm currently tinkering with!
+I'm diving deep into coding, exploring new technologies, and putting my problem-solving skills to work on various projects. Feel free to browse around and see what I'm currently tinkering with✨✨!
  </h3>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ4d3RmbWVpdnpkZmNhNHpqZnEzNXo1ZHVqdjhnejBmdjVvZ3BxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
